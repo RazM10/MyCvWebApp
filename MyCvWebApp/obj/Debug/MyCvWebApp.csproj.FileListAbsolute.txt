@@ -1,0 +1,6 @@
+C:\Users\Trainer 402\Desktop\2018-12-05\MyCvWebApp\MyCvWebApp\bin\MyCvWebApp.dll.config
+C:\Users\Trainer 402\Desktop\2018-12-05\MyCvWebApp\MyCvWebApp\bin\MyCvWebApp.dll
+C:\Users\Trainer 402\Desktop\2018-12-05\MyCvWebApp\MyCvWebApp\bin\MyCvWebApp.pdb
+C:\Users\Trainer 402\Desktop\2018-12-05\MyCvWebApp\MyCvWebApp\obj\Debug\MyCvWebApp.csprojResolveAssemblyReference.cache
+C:\Users\Trainer 402\Desktop\2018-12-05\MyCvWebApp\MyCvWebApp\obj\Debug\MyCvWebApp.dll
+C:\Users\Trainer 402\Desktop\2018-12-05\MyCvWebApp\MyCvWebApp\obj\Debug\MyCvWebApp.pdb
